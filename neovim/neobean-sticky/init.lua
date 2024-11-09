@@ -1,1 +1,1 @@
-/Users/linkarzu/github/dotfiles-latest/neovim/neobean/init.lua
+/Users/hotze/github/dotfiles-latest/neovim/neobean/init.lua

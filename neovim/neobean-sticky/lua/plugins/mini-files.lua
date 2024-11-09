@@ -1,1 +1,1 @@
-/Users/linkarzu/github/dotfiles-latest/neovim/neobean/lua/plugins/mini-files.lua
+/Users/hotze/github/dotfiles-latest/neovim/neobean/lua/plugins/mini-files.lua

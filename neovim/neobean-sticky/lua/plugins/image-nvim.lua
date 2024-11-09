@@ -1,1 +1,1 @@
-/Users/linkarzu/github/dotfiles-latest/neovim/neobean/lua/plugins/image-nvim.lua
+/Users/hotze/github/dotfiles-latest/neovim/neobean/lua/plugins/image-nvim.lua

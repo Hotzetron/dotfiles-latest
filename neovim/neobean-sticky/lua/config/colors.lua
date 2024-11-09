@@ -1,1 +1,1 @@
-/Users/linkarzu/github/dotfiles-latest/neovim/neobean/lua/config/colors.lua
+/Users/hotze/github/dotfiles-latest/neovim/neobean/lua/config/colors.lua
